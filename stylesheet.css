@@ -1,0 +1,9 @@
+body {
+color: rgb(65,75,86);
+font-family: "Courier New";
+margin: 0px;
+
+background: rgb(212,209,255);
+background: linear-gradient(90deg, rgba(212,209,255,1) 0%, rgba(227,227,255,1) 35%, rgba(255,163,221,1) 100%);
+
+}
